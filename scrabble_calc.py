@@ -33,4 +33,4 @@ def word_calc(word):
 word_calc('xylophone')
 expected_result = 24
 
-print(word_calc('xylophone') == expected_result)
+
